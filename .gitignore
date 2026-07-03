@@ -2,3 +2,5 @@ obj/*
 bin/*
 /.vs
 MatchZy.sln
+/docs/
+/.superpowers/
